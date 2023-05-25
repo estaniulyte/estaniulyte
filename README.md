@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+   <h3>
+    Hello World!
+    <a target="_blank" href="https://media.giphy.com/media/7JC7bCJJGj44aBwB8p/giphy.gif"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></a>
+  </h3>
+   <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=estaniulyte&theme=nord" alt="GitHub Streak"/>
+    </p>
+</div>
 
 <!--
 **estaniulyte/estaniulyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
