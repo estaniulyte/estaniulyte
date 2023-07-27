@@ -9,7 +9,7 @@
 </div>
 
 ### About Me :
-- 🔭 I’m currently searching for Front-end job position ✨ (and meanwhile working at Unity Technologies)
+- 🔭 I’m currently searching for Front-end job position ✨
 - :green_heart: In my free time, I love to dance salsa :dancer:, read :books:, take pictures :camera: and work on personal projects :computer:
 
 ---
